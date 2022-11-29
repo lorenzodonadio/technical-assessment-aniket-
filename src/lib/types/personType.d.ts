@@ -14,6 +14,17 @@ here is one of the items:
 
 **careful** `avatar` and `country` may contail null values*/
 
+
+export interface PersonObject {
+	result : Array<Person>
+}
 export interface Person {
 	id: number;
+	first_name: string,
+	last_name: string,
+	email: string,
+	ip_address: string,
+	avatar: string,
+	created_at: string,
+	country: string
 }
