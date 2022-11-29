@@ -35,16 +35,16 @@ npm run dev
 For this assignment you are asked to modify 4 files
 
 - `src/lib/types/personType.ts` #Type file for "person" data
-- `src/routes/+page.server.ts` #Home endpoint
+- `src/routes/+page.ts` #Home endpoint
 - `src/lib/components/Card.svelte` #Card component
 - `src/routes/+page.svelte` #Home page
 
 Please follow this steps:
 
 1. Complete the personType.ts file and use this type wherever is subsequently needed, (If you are not familiar with Typescript just skip and "any[]" type)
-2. Modify the home endpoint (index.ts) to correctly get the json data hosted in this url:`https://api.npoint.io/7116b399239c3967fad5`
+2. Modify the home endpoint (+page.ts) to correctly get the json data hosted in this url:`https://api.npoint.io/7116b399239c3967fad5`
 3. Complete the Card.svelte component to display correctly and nicely the relevant information of one person
-4. Display all the data contained in the home page (index.svelte), as cards. If possible style the page nicely, be creative.
+4. Display all the data contained in the home page (+page.svelte), as cards. If possible style the page nicely, be creative.
 5. **Bonus** Only if you have time, implement:
    - filtering to only display people form a certain country
    - search bar, search people by name
