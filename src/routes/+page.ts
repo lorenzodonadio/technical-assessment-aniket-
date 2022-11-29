@@ -9,5 +9,5 @@ export async function load() {
 		.then((response) => response.json())
 		.then((data) => (result = data));
 
-	return  {result};
+	return { result };
 }

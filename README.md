@@ -1,7 +1,6 @@
 ## Technical assessment for Deerns
 
-I would say: The assessment is a simple exercise to test your web development abilities, we recommend to have git available in your laptop and your IDE of choice (but we advise vscode). Before the assessment is good to refresh your knowledge of Svelte, Typescript and css (specially tailwind). 
-
+I would say: The assessment is a simple exercise to test your web development abilities, we recommend to have git available in your laptop and your IDE of choice (but we advise vscode). Before the assessment is good to refresh your knowledge of Svelte, Typescript and css (specially tailwind).
 
 This assessment was created to be completed in 1 hour, we dont expect all the tasks to be completed 100% since it is a short amount of time. What is important is your though process when going through the tasks, as at the end of the time the candidate will be asked to demostrate what he/she accomplished and explain it
 
