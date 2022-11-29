@@ -35,9 +35,9 @@ npm run dev
 For this assignment you are asked to modify 4 files
 
 - `src/lib/types/personType.ts` #Type file for "person" data
-- `src/routes/index.ts` #Home endpoint
+- `src/routes/+page.server.ts` #Home endpoint
 - `src/lib/components/Card.svelte` #Card component
-- `src/routes/index.svelte` #Home page
+- `src/routes/+page.svelte` #Home page
 
 Please follow this steps:
 
